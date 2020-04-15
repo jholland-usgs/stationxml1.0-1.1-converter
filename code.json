@@ -1,0 +1,41 @@
+[
+  {
+    "name": "stationxml1.0-1.1-converter",
+    "organization": "U.S. Geological Survey",
+    "description": "A python module for converting FDSN StationXML 1.0 to 1.1",
+    "version": "0.0.1",
+    "status": "Production",
+    "permissions": {
+      "usageType": "openSource",
+      "licenses": [
+        {
+          "name": "CC0 1.0 or Later",
+          "URL": "https://code.usgs.gov/asl/metadata-compare/blob/master/LICENSE.md"
+        }
+      ]
+    },
+    "homepageURL": "https://code.usgs.gov/asl/metadata-compare/",
+    "downloadURL": "https://code.usgs.gov/asl/metadata-compare/archive/master.zip",
+    "disclaimerURL": "https://code.usgs.gov/asl/metadata-compare/blob/master/DISCLAIMER.md",
+    "repositoryURL": "https://code.usgs.gov/asl/metadata-compare.git",
+    "vcs": "git",
+    "tags": [
+      "Seismic-Hazards",
+      "ASL",
+      "Metadata",
+      "FDSN StationXML",
+      "Quality Assurance"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "laborHours": 8,
+    "contact": {
+      "name": "James Holland",
+      "email": "jholland@usgs.gov"
+    },
+    "date": {
+      "metadataLastUpdated": "2020-04-15"
+    }
+  }
+]
