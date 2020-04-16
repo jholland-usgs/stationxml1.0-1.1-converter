@@ -10,14 +10,14 @@
       "licenses": [
         {
           "name": "CC0 1.0 or Later",
-          "URL": "https://code.usgs.gov/asl/metadata-compare/blob/master/LICENSE.md"
+          "URL": "https://code.usgs.gov/asl/stationxml1.0-1.1-converter/blob/master/LICENSE.md"
         }
       ]
     },
-    "homepageURL": "https://code.usgs.gov/asl/metadata-compare/",
-    "downloadURL": "https://code.usgs.gov/asl/metadata-compare/archive/master.zip",
-    "disclaimerURL": "https://code.usgs.gov/asl/metadata-compare/blob/master/DISCLAIMER.md",
-    "repositoryURL": "https://code.usgs.gov/asl/metadata-compare.git",
+    "homepageURL": "https://code.usgs.gov/asl/stationxml1.0-1.1-converter/",
+    "downloadURL": "https://code.usgs.gov/asl/mstationxml1.0-1.1-converter/archive/master.zip",
+    "disclaimerURL": "https://code.usgs.gov/asl/stationxml1.0-1.1-converter/blob/master/DISCLAIMER.md",
+    "repositoryURL": "https://code.usgs.gov/asl/stationxml1.0-1.1-converter.git",
     "vcs": "git",
     "tags": [
       "Seismic-Hazards",
