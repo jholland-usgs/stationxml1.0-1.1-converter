@@ -1,4 +1,5 @@
-# LICENSE
+License
+=======
 
 Unless otherwise noted, This project is in the public domain in the United
 States because it contains materials that originally came from the United
@@ -39,3 +40,7 @@ this deed makes no warranties about the work, and disclaims liability for
 all uses of the work, to the fullest extent permitted by applicable law.
 When using or citing the work, you should not imply endorsement by the
 author or the affirmer.
+
+
+
+[1]: https://creativecommons.org/publicdomain/zero/1.0/legalcode
