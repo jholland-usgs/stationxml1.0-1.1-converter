@@ -46,7 +46,7 @@ def convert_single_file(transform, input_file_path, output_dir):
         xml_in = etree.parse(input_file)
         xml_out = transform(xml_in)
         file_out = open(os.path.join(output_dir, os.path.basename(input_file_path)), 'wb')
-        file_out.write(etree.tostring(xml_out, pretty_print=True))
+        file_out.write(etree.tostring(xml_out, pretty_print=True, xml_declaration=True, encoding='UTF-8))
 
 
 def convert_from_paths(xslt, input, output, force_completion=False):
